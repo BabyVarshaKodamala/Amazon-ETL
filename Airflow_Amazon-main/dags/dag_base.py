@@ -32,7 +32,7 @@ import shutil
 # ========================================
 
 # Email for notifications
-ALERT_EMAIL = os.environ.get('SMTP_USER', 'karrisaigovind33@gmail.com')
+ALERT_EMAIL = os.environ.get('SMTP_USER', 'babyvarshavarsha@gmail.com')
 
 # ========================================
 # Team 1 - T0032: Error Recovery Workflow
