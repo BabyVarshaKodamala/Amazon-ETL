@@ -270,7 +270,7 @@ python -m venv airflow_env
 
 ```powershell
 # Navigate to project root
-cd D:\sam\Projects\Infosys\Airflow
+cd D:\varsha\Projects\Infosys\Airflow
 
 # Install requirements
 pip install -r requirements.txt
@@ -287,7 +287,7 @@ This will install:
 
 ```powershell
 # Ensure you're in project root
-cd D:\sam\Projects\Infosys\Airflow
+cd D:\varsha\Projects\Infosys\Airflow
 
 # Start Flask dashboard
 python scripts/api/web_dashboard.py
@@ -1286,7 +1286,7 @@ Use this checklist to ensure your environment is properly configured:
   - Memory: Minimum 4GB (Recommended: 6-8GB)
   - Disk: At least 10GB free space
 - [ ] **Repository cloned**
-  - `git clone https://github.com/SammyBoy-09/Airflow_ETL.git`
+  - `git clone https://github.com/BabyVarshaKodamala/Amazon-ETL.git
 - [ ] **CSV data files present**
   - Check: `ls data\raw\dataset` shows 5 CSV files
 - [ ] **Port availability checked**
