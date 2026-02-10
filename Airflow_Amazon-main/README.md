@@ -1243,7 +1243,7 @@ docker-compose up -d
 
 # START WEB DASHBOARD (in separate terminal)
 conda activate KB_1978
-cd D:\sam\Projects\Infosys\Airflow
+cd D:D:/varsha/Projects/Infosys/Airflow
 python scripts/api/web_dashboard.py
 
 # CHECK STATUS
