@@ -14,7 +14,7 @@ environment: development  # development, staging, production
 # Project Paths
 # ----------------------------------------
 paths:
-  project_root: "D:/sam/Projects/Infosys/Airflow"
+  project_root: "D:/varsha/Projects/Infosys/Airflow"
   data:
     raw: "data/raw/dataset"
     staging: "data/staging"
