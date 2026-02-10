@@ -83,7 +83,7 @@ docker ps
 ### 1. Clone the Repository
 
 ```powershell
-git clone https://github.com/KJoshiSaiGovind/Airflow_Amazon.git
+git clone https://github.com/BabyVarshaKodamala/Amazon-ETL.git
 cd Airflow_ETL
 ```
 
